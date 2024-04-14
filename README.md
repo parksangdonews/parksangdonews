@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- I wrote 📚 named '인텔리제이 IntelliJ IDEA 자바 프로그래밍 필수 도구' [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337793264)
+- I wrote 📚 named '인텔리제이 IntelliJ IDEA 자바 프로그래밍 필수 도구' [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337793264)  [YES24](https://www.yes24.com/Product/Goods/125910628)
 
 <!--
 **parksangdonews/parksangdonews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
